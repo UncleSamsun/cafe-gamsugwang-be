@@ -11,7 +11,7 @@
 
 ## 🎬 서비스 데모
 
-<video src="./docs/assets/service-demo.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/1a419dd2-216a-434e-a5f4-e7a91fefa290
 
 > 영상이 보이지 않는 환경에서는 [service-demo.mp4](./docs/assets/service-demo.mp4)를 직접 열어 확인할 수 있습니다.
 
